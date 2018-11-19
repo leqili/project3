@@ -6,7 +6,7 @@ function initMap(){
   var weekend = {lat : 39.927823, lng: 116.682894};
   var map = new google.maps.Map(
     document.getElementById('map'), {
-    zoom: 12.5, center: home
+    zoom: 11, center: childhood
     }
   );
 
