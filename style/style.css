@@ -50,6 +50,12 @@ nav h1 {
   width: 600px;
 }
 
+#map {
+  height: 500px;
+  width: 100%;
+  font-family: cursive;
+}
+
 main {
   width: 60%;
   margin-left: auto;
